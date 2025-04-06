@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Looking for Java developers who can collaborate effectively with business teams",
+    "relevant_assessments": [
+      "SHL Verify Java Programming",
+      "SHL Verify General Cognitive Ability",
+      "SHL Verify Teamwork"
+    ]
+  },
+  {
+    "query": "Need data scientists with strong analytical skills and Python experience",
+    "relevant_assessments": [
+      "SHL Verify Data Science",
+      "SHL Verify Python Programming",
+      "SHL Numerical Reasoning Test"
+    ]
+  },
+  {
+    "query": "Hiring for project managers with experience in agile methodologies",
+    "relevant_assessments": [
+      "SHL Verify Project Management",
+      "SHL Verify Agile",
+      "SHL General Ability Test"
+    ]
+  },
+  {
+    "query": "Looking for software architects with system design experience",
+    "relevant_assessments": [
+      "SHL Verify System Design",
+      "SHL Verify Software Architecture", 
+      "SHL Cognitive Ability Test"
+    ]
+  },
+  {
+    "query": "Seeking UX designers with strong problem-solving abilities",
+    "relevant_assessments": [
+      "SHL Problem Solving Test", 
+      "SHL Inductive Reasoning Test", 
+      "SHL Creativity Assessment" 
+    ]
+  }
+]

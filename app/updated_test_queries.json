@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Looking for Java developers who can collaborate effectively with business teams",
+    "relevant_assessments": [
+      "Java Developer Assessment",
+      "Collaboration Skills Test",
+      "Business Communication Assessment"
+    ]
+  },
+  {
+    "query": "Need data scientists with strong analytical skills and Python experience",
+    "relevant_assessments": [
+      "Data Science Assessment",
+      "Python Programming Test",
+      "Analytical Reasoning Assessment"
+    ]
+  },
+  {
+    "query": "Hiring for project managers with experience in agile methodologies",
+    "relevant_assessments": [
+      "Project Management Assessment",
+      "Agile Methodologies Test",
+      "Leadership Skills Assessment"
+    ]
+  },
+  {
+    "query": "Seeking UX designers with strong problem-solving abilities",
+    "relevant_assessments": [
+      "UX Design Assessment",
+      "Problem Solving Test",
+      "Creative Thinking Assessment"
+    ]
+  },
+  {
+    "query": "Looking for DevOps engineers with cloud experience",
+    "relevant_assessments": [
+      "DevOps Assessment",
+      "Cloud Computing Test",
+      "System Administration Assessment"
+    ]
+  }
+]

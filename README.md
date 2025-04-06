@@ -59,7 +59,3 @@ The API provides endpoints for:
 
 - Mean Recall@K
 - Mean Average Precision@K (MAP@K)
-
-## License
-
-MIT License
